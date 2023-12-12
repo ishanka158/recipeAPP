@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Build output
+build/
+dist/
+
+# Dependency directories
+.jenkins/
+
+# MongoDB data directory
+/data/
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# React build output
+/build/
+
+# IDE and text editor configuration files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+
+# Yarn
+yarn-error.log
+.pnp
+.pnp.js
